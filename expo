@@ -1,0 +1,6 @@
+def expo(a,b):
+  if b==0:
+    return1
+  else:
+      return expo(a,b)
+      print(x)
